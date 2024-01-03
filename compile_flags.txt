@@ -1,0 +1,15 @@
+-std=c++20
+-I/Users/work_vk/.conan/data/robin-hood-hashing/3.11.5/_/_/package/5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9/include
+-I/Users/work_vk/.conan/data/bgfx/7816-4/_/_/package/3a6883472796e224747e843ebb17d06fac67272b/include
+-I/Users/work_vk/.conan/data/glfw/3.3.7/_/_/package/135bfee6dc05e045980d031aba8ce5e50dec8806/include
+-I/Users/work_vk/.conan/data/simdjson/2.1.0/_/_/package/02b0434f2037ff496de3d30aa9e9f0aad0e67ae6/include
+-I/Users/work_vk/.conan/data/stb/cci.20210910/_/_/package/5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9/include
+-I/Users/work_vk/.conan/data/cpr/1.8.1/_/_/package/c39ab15d31fe7875fedaca9aaa72e6bcfed578f5/include
+-I/Users/work_vk/.conan/data/ixwebsocket/11.2.4/_/_/package/9d59ecebf1b85a38f66b925770dcf8ff3d94cadf/include
+-I/Users/work_vk/.conan/data/nlohmann_json/3.10.5/_/_/package/5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9/include
+-I/Users/work_vk/.conan/data/openssl/3.0.3/_/_/package/eaf20a82f68bcb22b45ec44ac3aacb378cf501eb/include
+-I/Users/work_vk/.conan/data/fmt/9.0.0/_/_/package/0929a200b9dd268a11fb98215e1f86bd4096d9cc/include
+-I/Users/work_vk/.conan/data/libcurl/7.80.0/_/_/package/558701acbd742293a107aa7d6bf3ed6838464b43/include
+-I/Users/work_vk/.conan/data/mbedtls/2.25.0/_/_/package/261d1fa0e6cb907d659cd0921da1b653be901165/include
+-I/Users/work_vk/.conan/data/zlib/1.2.12/_/_/package/f0ce0f189afed95b41fb2faad2f2225a7eca0d22/include
+-I/Users/work_vk/Desktop/Dev/personal_trader/deps/src
